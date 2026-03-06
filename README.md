@@ -1,6 +1,11 @@
-# Python automation scrips collection
+# Python automation scripts collection
 
-A collection of python automation scripts
+![Python](https://img.shields.io/badge/python-3.13.3-blue?logo=python)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+
+A curated set of reusable Python scripts that automate common development and operational tasks.
+Each script is designed to be lightweight, well‑documented, and easy to integrate into CI pipelines or local workflows.
 
 ## Requirements
 
