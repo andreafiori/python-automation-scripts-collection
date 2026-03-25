@@ -4,8 +4,6 @@ import pytest
 
 from app.file_management.tree_generator import directory_tree
 
-
-
 @pytest.fixture
 def sample_dir():
     with tempfile.TemporaryDirectory() as tmpdir:

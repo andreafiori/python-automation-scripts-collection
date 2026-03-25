@@ -10,7 +10,6 @@ Each script is designed to be lightweight, well‑documented, and easy to integr
 ## Requirements
 
 * Python version: 3.13.3
-* Pytest
 
 ## Create virtual env
 
