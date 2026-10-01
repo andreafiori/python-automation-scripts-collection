@@ -54,8 +54,7 @@ Each app has its own `README.md` with usage details.
 ## Requirements
 
 - [Python 3.13+](https://www.python.org/)
-- [uv](https://github.com/astral-sh/uv) — recommended package manager  
-(fallback to `pip` described below)
+- [uv](https://github.com/astral-sh/uv) — recommended package manager (fallback to `pip` described below)
 
 ## Quick start with uv (recommended)
 
