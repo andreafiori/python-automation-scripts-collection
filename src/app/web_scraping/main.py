@@ -1,4 +1,4 @@
-from app.fake_jobs_scraper.fake_jobs_scraper import FakeJobsScraper
+from app.web_scraping.fake_jobs_scraper import FakeJobsScraper
 
 def main():
     scraper = FakeJobsScraper()

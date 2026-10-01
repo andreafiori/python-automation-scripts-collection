@@ -51,5 +51,10 @@ htmlcov/
 *.log
 *.pot
 
+# All Virtual Environments
+.venv/
+env/
+venv/
+
 # Sphinx documentation
 docs/_build/
