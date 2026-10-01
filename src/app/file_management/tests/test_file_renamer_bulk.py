@@ -1,5 +1,4 @@
-from app.file_system.file_renamer_bulk import bulk_rename
-
+from operations.file_renamer_bulk import bulk_rename
 
 def test_bulk_rename_dry_run(tmp_path):
     # Create test files in a temporary directory
