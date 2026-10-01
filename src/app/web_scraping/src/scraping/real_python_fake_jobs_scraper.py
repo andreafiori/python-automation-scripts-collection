@@ -5,9 +5,9 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 """
-Real Python's Fake Jobs Scraper
+Real Python's Fake Jobs Scraper: https://realpython.github.io/fake-jobs/
 """
-class FakeJobsScraper:
+class RealPythonFakeJobsScraper:
 
     def __init__(self):
         self.data_dir = Path("data")
