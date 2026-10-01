@@ -1,7 +1,7 @@
 [project]
-name = "python-automation-scripts-collection"
+name = "python-automation-projects-collection"
 version = "0.1.0"
-description = "A collection of python automation scripts"
+description = "A collection of python automation projects"
 readme = "README.md"
 authors = [
     { name = "Andrea Fiori", email = "info@andreafiori.net" }
@@ -10,7 +10,7 @@ requires-python = ">=3.13"
 dependencies = []
 
 [project.scripts]
-python-automation-scripts-collection = "python_automation_scripts_collection:main"
+python-automation-projects-collection = "python_automation_projects_collection:main"
 
 [build-system]
 requires = ["uv_build>=0.12.7,<0.13.0"]

@@ -1,7 +1,5 @@
-from app.file_renamer_bulk import bulk_rename
+from app.file_system.file_renamer_bulk import bulk_rename
 
-# Assuming the script above is saved in a file named `renamer.py`
-# from renamer import bulk_rename
 
 def test_bulk_rename_dry_run(tmp_path):
     # Create test files in a temporary directory
