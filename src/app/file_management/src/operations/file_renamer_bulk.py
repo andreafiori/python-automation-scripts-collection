@@ -2,6 +2,9 @@ import re
 
 from pathlib import Path
 
+"""
+File renamer for bulk operations.
+"""
 def bulk_rename(directory: str, pattern: str, replacement: str, dry_run: bool = True):
     target_dir = Path(directory)
     renamed = []
